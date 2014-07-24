@@ -1,6 +1,6 @@
 {
   "name": "gulp-pathmap",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Rename files with pathmap. Think of it like `sprintf` for paths.",
   "main": "index.js",
   "scripts": {
