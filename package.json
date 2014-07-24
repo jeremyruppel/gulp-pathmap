@@ -1,11 +1,12 @@
 {
   "name": "gulp-pathmap",
   "version": "0.0.0",
-  "description": "Rename files with pathmap",
+  "description": "Rename files with pathmap. Think of it like `sprintf` for paths.",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
+  "repository": "https://github.com/jeremyruppel/gulp-pathmap",
   "keywords": [
     "gulpplugin",
     "gulp-plugin",
