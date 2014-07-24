@@ -1,0 +1,21 @@
+{
+  "name": "gulp-pathmap",
+  "version": "0.0.0",
+  "description": "Rename files with pathmap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulpplugin",
+    "gulp-plugin",
+    "pathmap",
+    "rename",
+    "filename",
+    "basename",
+    "extname",
+    "dirname"
+  ],
+  "author": "Jeremy Ruppel",
+  "license": "MIT"
+}
